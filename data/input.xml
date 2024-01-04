@@ -1,0 +1,17 @@
+<data>
+    <record>
+        <Name>John</Name>
+        <Age>25</Age>
+        <City>New York</City>
+    </record>
+    <record>
+        <Name>Alice</Name>
+        <Age>30</Age>
+        <City>San Francisco</City>
+    </record>
+    <record>
+        <Name>Bob</Name>
+        <Age>28</Age>
+        <City>Los Angeles</City>
+    </record>
+</data>
