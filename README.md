@@ -1,8 +1,8 @@
 # Data Converter Tool
-Simple data converter script written in python by ChatGPT 3.5 for a student prompt enginerring project.
+Simple data converter script written in Python by ChatGPT 3.5 for a student prompt engineering project.
 
 ## Prompts Used
-"Build a simple cli tool in python that supports all commonly used data formats, concurrency, and error handling. Include unit testing that covers as may edge cases as possible and employs boundary testing while covering all features of the script."
+"Build a simple cli tool in Python that supports all commonly used data formats, concurrency, and error handling. Include unit testing that covers as many edge cases as possible and employs boundary testing while covering all features of the script."
 
 "How can I make this tool more robust?"
 
